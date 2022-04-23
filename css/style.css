@@ -2,12 +2,11 @@
     font-family: Verdana;
 }
 .navbar{
-    background-color: #1976d2;
+    background-color: aquamarine;
     font-size: 18px;
 }
 .quem-somos{
-    background-color: #e8eaf6;
-    font-size: 16px;
+    background: linear-gradient(145deg, rgb(195, 240, 200), rgb(80, 155, 245));    font-size: 16px;
     font-weight: 900;
 }
 .margin{
@@ -15,11 +14,13 @@
     padding-bottom: 40px;
 }
 .partners{
-    background-color: #b4deeb;
-    font-weight: 400;
+    background: linear-gradient(rgb(52, 102, 174) 0%, rgb(83, 144, 241) 100%);
 }
 .editfooter{
     background-color: #37474f;
     color: #e8eaf6;
     padding-top:40px; ;
+}
+.services{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(165,229,237,1) 0%, rgba(20,146,178,1) 90.1% );
 }
