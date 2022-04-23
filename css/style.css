@@ -1,0 +1,25 @@
+.navbar, .margin{
+    font-family: Verdana;
+}
+.navbar{
+    background-color: #1976d2;
+    font-size: 18px;
+}
+.quem-somos{
+    background-color: #e8eaf6;
+    font-size: 16px;
+    font-weight: 900;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.partners{
+    background-color: #b4deeb;
+    font-weight: 400;
+}
+.editfooter{
+    background-color: #37474f;
+    color: #e8eaf6;
+    padding-top:40px;
+}
